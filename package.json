@@ -13,6 +13,7 @@
     "strategy",
     "core"
   ],
+  "main": "hive-game-core.js",
   "repository": "https://github.com/unwitting/hive-core",
   "homepage": "https://github.com/unwitting/hive-core",
   "bugs": "https://github.com/unwitting/hive-core/issues",
