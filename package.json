@@ -1,15 +1,24 @@
 {
   "name": "hive-game-core",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Various stuff implementing the game and rules of Hive, the strategy game",
   "author": "Jack Preston <unwttng@gmail.com>",
-  "contributors": ["Jack Preston <unwttng@gmail.com>"],
-  "keywords": ["hive", "game", "strategy", "core"],
+  "contributors": [
+    "Jack Preston <unwttng@gmail.com>"
+  ],
+  "keywords": [
+    "hive",
+    "game",
+    "strategy",
+    "core"
+  ],
   "repository": "https://github.com/unwitting/hive-core",
   "homepage": "https://github.com/unwitting/hive-core",
   "bugs": "https://github.com/unwitting/hive-core/issues",
-  "engines": { "node" : "7.x.x" },
+  "engines": {
+    "node": "7.x.x"
+  },
   "scripts": {
     "test": "jest --verbose"
   },
