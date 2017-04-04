@@ -1,5 +1,5 @@
 {
-  "name": "hive-core",
+  "name": "hive-game-core",
   "license": "GPL-3.0",
   "version": "1.0.0",
   "description": "Various stuff implementing the game and rules of Hive, the strategy game",
