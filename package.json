@@ -17,7 +17,7 @@
   "homepage": "https://github.com/unwitting/hive-core",
   "bugs": "https://github.com/unwitting/hive-core/issues",
   "engines": {
-    "node": "7.x.x"
+    "node": ">=7.6"
   },
   "scripts": {
     "test": "jest --verbose"
