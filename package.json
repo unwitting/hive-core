@@ -14,9 +14,9 @@
     "core"
   ],
   "main": "hive-game-core.js",
-  "repository": "https://github.com/unwitting/hive-core",
-  "homepage": "https://github.com/unwitting/hive-core",
-  "bugs": "https://github.com/unwitting/hive-core/issues",
+  "repository": "https://github.com/unwitting/hive-game-core",
+  "homepage": "https://github.com/unwitting/hive-game-core",
+  "bugs": "https://github.com/unwitting/hive-game-core/issues",
   "engines": {
     "node": ">=7.6"
   },
