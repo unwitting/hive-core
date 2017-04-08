@@ -1,7 +1,7 @@
 {
   "name": "hive-game-core",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Various stuff implementing the game and rules of Hive, the strategy game",
   "author": "Jack Preston <unwttng@gmail.com>",
   "contributors": [
