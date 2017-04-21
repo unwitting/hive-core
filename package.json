@@ -26,7 +26,8 @@
   "dependencies": {
     "jshashes": "^1.0.6",
     "lodash": "^4.17.4",
-    "shortid": "^2.2.8"
+    "shortid": "^2.2.8",
+    "uuid": "^3.0.1"
   },
   "devDependencies": {
     "jest": "^19.0.2"
